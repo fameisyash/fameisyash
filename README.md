@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/f3KtMW7.gif" alt="coding" width="300"/>
+  <img src="[https://i.imgur.com/f3KtMW7.gif](https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY4OTQ4NzUsIm5iZiI6MTc0Njg5NDU3NSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEwVDE2MjkzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1YjIxMjczZGE5ODY4MjhlYjAwZjI1NmM3NTgyOTM1NDBkYTZkNGI1NDFlMGNiYzk3NmViMDRkYTdkZDQ0OWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Cf99_ZG1vELHGkU-fOyqlFPmkTfEFy0lSGlvuI2pDf4)" alt="coding" width="300"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
