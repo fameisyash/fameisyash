@@ -1,10 +1,10 @@
-<!-- 🚀 Yash Verma's GitHub README - Refined & Clean -->
+<!-- 🚀 Yash Verma's GitHub README - Creative & Dynamic -->
 
-<h1 align="center">Hey there, I'm <span style="color:#007acc;">Yash Verma</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#FF6347;">Yash Verma</span> 👋</h1>
 
 <p align="center">
   <b>☁️ Cloud Enthusiast • 🐍 Python Developer • 🎮 Gamer • ✂️ Video Editor</b><br/>
-  <i>Aspiring Cloud Engineer with a passion for problem-solving and creating impactful solutions.</i>
+  <i>Aspiring Cloud Engineer on a mission to blend technology with creativity.</i>
 </p>
 
 <br/>
@@ -22,12 +22,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BCA Graduate  
-- 🔭 Currently learning Cloud Engineering with AWS  
-- 🐍 Focused on Python development  
-- 🌱 Expanding knowledge in Cloud architecture and automation  
-- 🎮 Gaming and video editing as hobbies  
-- 🧠 Always improving my skills and seeking new challenges
+- 🎓 **BCA Graduate** with a passion for technology and creativity.  
+- 🔭 Currently diving deep into **AWS Cloud Solutions** and **Infrastructure Automation**.  
+- 🐍 Building robust Python applications for the cloud.  
+- 🌱 Continuously learning to improve my skills in **DevOps**, **Cybersecurity**, and **Cloud Engineering**.  
+- 🎮 A dedicated **gamer** and **video editor**, where precision meets creativity.  
+- 💡 **Problem solver** by nature, striving to combine technical expertise and creativity in everything I do.
 
 ---
 
@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42B7?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -52,6 +54,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YashVerma&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashVerma&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
+
+---
+
+### 🌍 Fun Facts
+
+- 🏆 **Gaming** is more than a hobby — it's where strategy, problem-solving, and creativity come together!
+- 🎬 **Editing** videos lets me express my creativity and storytelling skills with visual effects.
+- 🧠 My favorite quote: *"The only way to do great work is to love what you do."* – Steve Jobs
+- 🌟 I'm a huge advocate for **open-source** development. I contribute to projects whenever I can!
 
 ---
 
@@ -77,7 +88,22 @@
 
 ---
 
+### 💡 Quote of the Day
+
+> *"The future belongs to those who believe in the beauty of their dreams."* – Eleanor Roosevelt
+
 <p align="center">
-  ✨ “Code with precision, edit with creativity, and game with passion.”  
-  <br/>🚀 Thanks for stopping by — let's connect & build something amazing!
+  ✨ **Code with precision, edit with passion, and game with strategy!**  
+  🚀 Thanks for stopping by — let's connect and build amazing things together!  
 </p>
+
+---
+
+### 🔧 WIP Projects (Check Out Some of My Work)
+
+- **Cloud Automation with AWS & Terraform** – Automating deployment pipelines using AWS.
+- **Python Web Scraper** – A simple Python app that scrapes data from websites and outputs to CSV.
+- **Personal Portfolio** – A modern, responsive portfolio showcasing my tech journey.
+
+Feel free to check out my repositories and see what I'm working on! 🚀
+
