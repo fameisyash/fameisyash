@@ -24,7 +24,7 @@
 - 🎓 **BCA Graduate** with a passion for technology and creativity.  
 - 🔭 Currently diving deep into **AWS Cloud Solutions** and **Infrastructure Automation**.  
 - 🐍 Building robust Python applications for the cloud.  
-- 🌱 Continuously learning to improve my skills in **DevOps**, **Cybersecurity**, and **Cloud Engineering**.  
+- 🌱 Continuously learning to improve my skills in **DevOps**, **Data Analyst**, and **Cloud Engineer**.  
 - 🎮 A dedicated **gamer** and **video editor**, where precision meets creativity.  
 - 💡 **Problem solver** by nature, striving to combine technical expertise and creativity in everything I do.
 
