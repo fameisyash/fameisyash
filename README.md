@@ -96,10 +96,9 @@
 
 ---
 
-### 🔧 WIP Projects (Check Out Some of My Work)
+### 🔧 Projects (Check Out Some of My Work)
 
-- **Cloud Automation with AWS & Terraform** – Automating deployment pipelines using AWS.
-- **Python Web Scraper** – A simple Python app that scrapes data from websites and outputs to CSV.
-- **Personal Portfolio** – A modern, responsive portfolio showcasing my tech journey.
+- **Serverless Web Application** – Employee Profile System using AWS.
+- **Static** – Deploy Static Website using S3 bucket.
 
 Feel free to check out my repositories and see what I'm working on! 🚀
