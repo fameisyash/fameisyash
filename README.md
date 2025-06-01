@@ -19,8 +19,11 @@
 
 ## 🚀 Featured Project
 
-### 🖥 Computing Static Website using AWS  
-Harnessing the power of AWS services to deploy and manage a *scalable, static website*.
+### 🖥 Severless Web Application - EMPLOYEE PROFILE SYSTEM using AWS  
+A serverless web app on *AWS* to store employee details effortlessly. It is designed to efficiently manage 
+employee information. Used AWS services like *S3*, *CloudFront*, *Lambda*, *API Gateway*, and *DynamoDB*. This 
+application ensures easy and secure storage of employee information without the need for traditional 
+servers, making it *simple* and *efficient*. 
 
 ---
 ## 🛠 Skills & Tools  
