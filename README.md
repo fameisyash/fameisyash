@@ -1,4 +1,4 @@
-<!-- Standout Professional GitHub Profile README for shalviiiii -->
+<!-- Standout Professional GitHub Profile README for fameisyash -->
 
 <h1 align="center">Hey, I'm Yash!👋</h1>
 
