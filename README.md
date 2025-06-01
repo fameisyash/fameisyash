@@ -1,104 +1,58 @@
-<!-- 🚀 Yash Verma's GitHub README - Creative & Dynamic -->
+<!-- Standout Professional GitHub Profile README for shalviiiii -->
 
-<h1 align="center">Hey there, I'm <span style="color:#FF6347;">Yash Verma</span> 👋</h1>
+<h1 align="center">Hey, I'm Yash!👋</h1>
 
+<p align="center"><i>
+  "The only way to do great work is to love what you do." <br>
+  — Steve Jobs
+</i></p>
 <p align="center">
-  <b>☁️ Cloud Enthusiast • 🐍 Python Developer • 🎮 Gamer • ✂️ Video Editor</b><br/>
-  <i>Aspiring Cloud Engineer on a mission to blend technology with creativity.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=BCA+Graduate;Python+Programmer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
-<br/>
+## 🌟 About Me
 
+- 🎓 Recent *BCA graduate* passionate about technology and continuous learning
+- ☁ Skilled in *Cloud Computing* with *AWS*
+- 🐍 Proficient in *Python programming*
+- 🎨 Love painting and expressing creativity through art  
+
+## 🚀 Featured Project
+
+### 🖥 Computing Static Website using AWS  
+Harnessing the power of AWS services to deploy and manage a *scalable, static website*.
+
+---
+## 🛠 Skills & Tools  
+
+### 🔥 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-181717?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🏆 GitHub Stats  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Cloud+Engineer+%7C+AWS+Explorer;Python+Developer;Gamer+%7C+Editor;Tech+Enthusiast+%7C+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://github.com/fameisyash/&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" width="350"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **BCA Graduate** with a passion for technology and creativity.  
-- 🔭 Currently diving deep into **AWS Cloud Solutions** and **Infrastructure Automation**.  
-- 🐍 Building robust Python applications for the cloud.  
-- 🌱 Continuously learning to improve my skills in **DevOps**, **Data Analyst**, and **Cloud Engineer**.  
-- 🎮 A dedicated **gamer** and **video editor**, where precision meets creativity.  
-- 💡 **Problem solver** by nature, striving to combine technical expertise and creativity in everything I do.
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashVerma&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashVerma&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
----
-
-### 🌍 Fun Facts
-
-- 🏆 **Gaming** is more than a hobby — it's where strategy, problem-solving, and creativity come together!
-- 🎬 **Editing** videos lets me express my creativity and storytelling skills with visual effects.
-- 🧠 My favorite quote: *"The only way to do great work is to love what you do."* – Steve Jobs
-- 🌟 I'm a huge advocate for **open-source** development. I contribute to projects whenever I can!
-
----
-
-### 📬 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fameisyash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fameisyash/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fameisyash/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashverma.tech@gmail.com)
-
-</div>
-
----
-
-### 🎮 Visual Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="260"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalviiiii&theme=blueberry" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💡 Quote of the Day
-
-> *"The future belongs to those who believe in the beauty of their dreams."* – Eleanor Roosevelt
+## 🎯 Let’s Connect!
 
 <p align="center">
-  ✨ **Code with precision, edit with passion, and game with strategy!**  
-  🚀 Thanks for stopping by — let's connect and build amazing things together!  
+  <a href="https://www.linkedin.com/in/fameisyash/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/fameisyash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=90&section=footer"/>
 </p>
-
----
-
-### 🔧 Projects (Check Out Some of My Work)
-
-- **Serverless Web Application** – Employee Profile System using AWS.
-- **Static** – Deploy Static Website using S3 bucket.
-
-Feel free to check out my repositories and see what I'm working on! 🚀
