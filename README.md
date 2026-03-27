@@ -25,6 +25,12 @@ employee information. Used AWS services like *S3*, *CloudFront*, *Lambda*, *API 
 application ensures easy and secure storage of employee information without the need for traditional 
 servers, making it *simple* and *efficient*. 
 
+### 🖥 Serverless Portfolio with AI chatbot
+This project is a personal portfolio website built using a serverless architecture and integrated with an AI chatbot to interact with users in real-time.
+The frontend is developed using HTML, CSS, and JavaScript, which displays my profile, skills, projects, and contact details. The backend is implemented using AWS serverless services, so there is no need to manage any physical servers.
+For handling user queries, an AI chatbot is integrated that can answer questions about my skills, projects, and experience. It improves user engagement and provides instant responses.
+User messages from the “Ask Me Anything” section are processed using a backend API and stored in a cloud database for future reference
+
 ---
 ## 🛠 Skills & Tools  
 
@@ -40,7 +46,7 @@ servers, making it *simple* and *efficient*.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalviiiii&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fameisyash&theme=blueberry" alt="GitHub Streak" />
 </p>
 
 ---
